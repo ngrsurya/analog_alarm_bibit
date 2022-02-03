@@ -1,0 +1,4 @@
+#Thu Feb 03 08:04:51 ICT 2022
+base.0=D\:\\DEV\\Flutter Project\\bibit_test\\build\\app\\intermediates\\dex\\profile\\mergeDexProfile\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
